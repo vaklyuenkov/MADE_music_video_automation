@@ -7,7 +7,7 @@ Service for automating video editing of music videos.
 - music recommendation
 - music-video synchronization using visbeat
 
-Presentation (https://docs.google.com/presentation/d/1qstVFZ1bPfrbmPP4vF9n-nuKQHR6GYt2SaDdD0eRTik/edit?usp=sharing)
+[Presentation](https://docs.google.com/presentation/d/1qstVFZ1bPfrbmPP4vF9n-nuKQHR6GYt2SaDdD0eRTik/edit?usp=sharing)
 
 ## Quick start
 
