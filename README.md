@@ -1,5 +1,14 @@
 # made_music_video_automation
 
+Service for automating video editing of music videos.
+
+- video quality
+- highlights detection
+- music recommendation
+- music-video synchronization using visbeat
+
+Presentation (https://docs.google.com/presentation/d/1qstVFZ1bPfrbmPP4vF9n-nuKQHR6GYt2SaDdD0eRTik/edit?usp=sharing)
+
 ## Quick start
 
 ```
